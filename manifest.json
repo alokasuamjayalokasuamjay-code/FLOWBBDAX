@@ -1,0 +1,19 @@
+{
+  "name": "FLOW",
+  "short_name": "FLOW",
+  "description": "FLOW - Chat Global, Tools, dan Service",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080b12",
+  "theme_color": "#3b82f6",
+  "lang": "id",
+  "dir": "ltr",
+  "categories": ["social", "utilities"],
+  "icons": [
+    { "src": "https://files.catbox.moe/18vrni.jpg", "sizes": "192x192", "type": "image/jpeg", "purpose": "any" },
+    { "src": "https://files.catbox.moe/18vrni.jpg", "sizes": "512x512", "type": "image/jpeg", "purpose": "any" },
+    { "src": "https://files.catbox.moe/18vrni.jpg", "sizes": "512x512", "type": "image/jpeg", "purpose": "maskable" }
+  ]
+}
